@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"CSVAttributeMissing"},{"p":"<Unnamed>","l":"CSVDataMissing"},{"p":"<Unnamed>","l":"Driver"}];updateSearchResults();
